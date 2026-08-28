@@ -1,6 +1,6 @@
 {
   "name": "@openedx/frontend-dev-utils",
-  "version": "1.0.0-semantically-released",
+  "version": "0.0.0-dev",
   "description": "Development utilities for use with @openedx/frontend-base",
   "homepage": "https://github.com/openedx/frontend-dev-utils#readme",
   "bugs": {
